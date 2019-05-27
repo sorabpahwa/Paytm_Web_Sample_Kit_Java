@@ -1,0 +1,6 @@
+curl -X
+POST https://securegw-stage.paytm.in/order/status -H
+'content-type: application/json' -d 
+'JsonData={"MID":"rxazcv89315285244163",
+"ORDERID":"order1",
+"CHECKSUMHASH":"CsTeIGhOnegWColuGQaGphMizcsECToTPZ9x
